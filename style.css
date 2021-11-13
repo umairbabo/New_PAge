@@ -1,0 +1,48 @@
+.img{
+    padding-left: 200px;
+    padding-top: 100px;
+}
+/* input{
+    display: block;
+    margin-left: 800px;
+    margin-bottom: 900px;
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+} */
+
+
+.div2{
+    margin-left: 510px;
+
+}
+
+
+input{
+    display: block;
+    margin: 20px;
+    height: 40px;
+    width: 300px;
+    border-radius: 5px;
+}
+.img{
+   width: 200px;
+   height: 200px;
+   padding-right: 100px;
+}
+ 
+input:hover{
+    border-radius: 5px;
+}
+
+
+
+.botton{
+    background-color: silver;
+    color: green;
+}
+
+.button:hover{
+    background-color: green;
+    cursor: pointer;
+}
